@@ -17,7 +17,7 @@ class GameSession {
   static const int pairCount = 9;
 
   /// 最初のライフ数。札がそろわなかった（ミスした）ターンごとに1つ減る。
-  static const int maxLives = 10;
+  static const int maxLives = 7;
 
   final List<VoiceCard> cards;
   final Set<int> _revealed = {};
