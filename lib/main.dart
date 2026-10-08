@@ -35,7 +35,7 @@ class VoiceMatchingGameApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ボイス神経衰弱',
+      title: 'Notitle',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
