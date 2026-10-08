@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "ボイス神経衰弱 (Android)",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "ボイス神経衰弱 (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^flutter --version; flutter doctor -v; git ls-files$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
